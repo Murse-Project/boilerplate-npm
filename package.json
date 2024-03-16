@@ -4,6 +4,7 @@
   "description": "A project that gonna help me learn programming",
   "keywords": [ "freecodecamp", "learning", "programming" ],
   "license": "MIT",
+  "version": "1.0.0",
   "dependencies": {
     "express": "^4.14.0"
   },
